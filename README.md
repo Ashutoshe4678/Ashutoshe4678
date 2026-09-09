@@ -25,7 +25,7 @@ I am a passionate **AI & LLM Engineer** and **Full-Stack Developer** dedicated t
 - 🔬 **Exploring**: Advanced vector databases, agentic reasoning, and real-time geospatial applications.
 - 💡 **Passion**: Transforming complex AI/ML models into user-friendly production applications.
 - 🌐 **Live Portfolio**: [portfolio-three-delta-1fwcnxikd7.vercel.app](https://portfolio-three-delta-1fwcnxikd7.vercel.app)
-- 📫 **How to reach me**: [ashutoshkeshri4678@gmail.com](mailto:ashukeshri3597@gmail.com)
+- 📫 **How to reach me**: [ashukeshri3597@gmail.com](mailto:ashukeshri3597@gmail.com)
 
 ---
 
