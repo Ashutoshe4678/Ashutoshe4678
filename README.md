@@ -30,7 +30,8 @@ I am a passionate **AI & LLM Engineer** and **Full-Stack Developer** dedicated t
 ---
 
 ## 🛠️ Tech Stack & Skills Matrix
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <table>
   <tr>
     <td align="center" width="20%"><strong>AI & LLMs</strong></td>
